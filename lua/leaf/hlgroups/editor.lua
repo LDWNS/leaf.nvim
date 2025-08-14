@@ -27,7 +27,7 @@ function M.setup(colors, config)
         ModeMsg = { fg = colors.brown0, style = "bold", bg = "NONE" },
         MsgSeparator = { link = "Separator" },
         MoreMsg = { fg = colors.green1, bg = colors.bg0, style = "NONE" },
-        NonText = { fg = colors.bg1 },
+        NonText = { fg = colors.bg2 },
         Normal = { fg = colors.fg1, bg = not config.transparent and colors.bg0 or "NONE" },
         NormalNC = { link = "Normal" },
         NormalSB = { link = "Normal" },

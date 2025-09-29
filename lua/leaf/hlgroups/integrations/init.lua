@@ -17,7 +17,8 @@ function M.setup(colors, config)
         require("leaf.hlgroups.integrations.smoothcursor").setup(colors, config),
         require("leaf.hlgroups.integrations.telekasten").setup(colors, config),
         require("leaf.hlgroups.integrations.telescope").setup(colors, config),
-        require("leaf.hlgroups.integrations.treesitter").setup(colors, config)
+        require("leaf.hlgroups.integrations.treesitter").setup(colors, config),
+        require("leaf.hlgroups.integrations.rendermarkdown").setup(colors, config)
     )
 end
 

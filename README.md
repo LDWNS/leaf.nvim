@@ -96,6 +96,7 @@ vim.cmd("colorscheme leaf")
 - [Barbar](https://github.com/romgrk/barbar.nvim)
 - [Neogit](https://github.com/TimUntersberger/neogit)
 - [SmoothCursor](https://github.com/gen740/SmoothCursor.nvim)
+- [Render Markdown](https://github.com/MeanderingProgrammer/render-markdown.nvim)
 
 And many others should _"just work"_!
 
